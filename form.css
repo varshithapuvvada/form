@@ -1,0 +1,21 @@
+h2
+{
+    color:grey;
+}
+body
+{
+  background-color:pink;
+}
+#frm
+{
+	color:purple;
+} 
+.container
+{
+position:absolute;
+top:380px;
+left:700px;
+right:150px;
+
+
+}
